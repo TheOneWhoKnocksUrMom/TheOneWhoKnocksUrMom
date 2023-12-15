@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**TheOneWhoKnocksUrMom/TheOneWhoKnocksUrMom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Tdius, and I'm passionate about coding, especially in the realm of Discord bots and backend development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything
+- 🔭 I’m currently working on Discord Bots
+- 💻 Programs I use everyday: Python, VS Code, GitHub, Discord
+
+## Projects
+
+Check out some of my latest projects:
+
+- [Project 1](https://github.com/tdius9/GithubAPI-Website): Find any Github User with this website!
+- [Project 2](https://github.com/tdius9/Slot-Machine): An Online Slot Machine game to gamble online!
+
+Feel free to explore and provide feedback. Collaboration is always welcome!
